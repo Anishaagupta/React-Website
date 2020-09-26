@@ -70,7 +70,7 @@ const Footer = () => {
               <i className='fas fa-globe-europe' />
             </Link>
           </div>
-          <small className='website-rights'> © 2020 Created By <a href="https://anishagupta.me" target="_blank">Anisha Gupta</a></small>
+          <small className='website-rights'> © 2020 Created By <a href="https://anishagupta.me">Anisha Gupta</a></small>
           <div className='social-icons'>
             <a
               className='social-icon-link facebook'
