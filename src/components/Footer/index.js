@@ -67,7 +67,7 @@ const Footer = () => {
           <div className='footer-logo'>
             <Link to='/' className='social-logo'>
               Travel To The World
-              <i className='fas fa-globe-europe' />
+              <i className='fas fa-globe-europe'/>
             </Link>
           </div>
           <small className='website-rights'> © 2020 Created By <a href="https://anishagupta.me">Anisha Gupta</a></small>
@@ -75,7 +75,7 @@ const Footer = () => {
             <a
               className='social-icon-link facebook'
               href='https://github.com/Anishaagupta'
-              target='_blank'
+              
               aria-label='Github'
             >
               <i className='fab fa-github' />
@@ -83,7 +83,7 @@ const Footer = () => {
             <a
               class='social-icon-link instagram'
               href="https://www.instagram.com/anishaaguptta/"
-              target='_blank'
+              
               aria-label='Instagram'
             >
               <i class='fab fa-instagram' />
@@ -91,7 +91,7 @@ const Footer = () => {
             <a
               class='social-icon-link youtube'
               href="https://www.facebook.com/profile.php?id=100014848606870"
-              target='_blank'
+              
               aria-label='Facebook'
             >
               <i class='fab fa-facebook-f' />
@@ -99,7 +99,7 @@ const Footer = () => {
             <a
               class='social-icon-link twitter'
               href='https://www.linkedin.com/in/anisha-gupta-66096318b/'
-              target='_blank'
+              
               aria-label='LinkedIn'
             >
               <i class='fab fa-linkedin' />
